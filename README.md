@@ -4,11 +4,10 @@
 
 <div align="center">
 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6%2B-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-12-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
 # Hi, I'm Sujita 👋
