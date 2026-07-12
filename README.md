@@ -135,7 +135,7 @@ My strongest areas include:
 
 # Contact
 
-📌 LinkedIn: https://linkedin.com/in/your-profile
+📌 LinkedIn: https://www.linkedin.com/in/sujita-shrestha-0b09b3421
 
 
 ---
